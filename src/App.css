@@ -12,6 +12,7 @@ body{
     border: none;
     border-radius: 5px;
     outline: none;
+    border-color:red ;
     transition:all .3s ease-in-out;
     cursor: pointer;
 }
